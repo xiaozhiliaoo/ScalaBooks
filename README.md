@@ -10,7 +10,7 @@ PDF total size：**144MB**
 
 ## English-Book
 
-### [Pragmatic Scala(EMPTY)](Pragmatic-Scala.pdf)
+### [Pragmatic Scala(Incomplete)](Pragmatic-Scala.pdf)
 
 ![Pragmatic Scala](images/Pragmatic-Scala.jpg)
 
@@ -39,7 +39,7 @@ PDF total size：**144MB**
 
 ![Programming in Scala-Fourth Edition](images/Programming-in-Scala-Fourth-Edition.jpg)
 
-### [Programming in Scala-Fifth Edition(EMPTY)](Programming-in-Scala-Fifth-Edition.pdf)
+### [Programming in Scala-Fifth Edition](Programming-in-Scala-Fifth-Edition.pdf)
 
 ![Programming in Scala-Fifth Edition](images/Programming-in-Scala-Fifth-Edition.jpg)
 
@@ -52,7 +52,7 @@ PDF total size：**144MB**
 
 ![Programming Scala-Third-Edition](images/Programming-Scala-Second-Edition.png)
 
-### [Programming Scala-Third-Edition(EMPTY)](Programming-Scala-Third-Edition.pdf)
+### [Programming Scala-Third-Edition](Programming-Scala-Third-Edition.pdf)
 
 ![Programming Scala-Third-Edition](images/Programming-Scala-Third-Edition.jpg)
 
