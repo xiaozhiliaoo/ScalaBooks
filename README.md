@@ -2,7 +2,13 @@
 
 PDF total size：**144MB**
 
-## English Book
+## **Contents**
+
+[English Book](#English-Book)
+
+[Chinese Book](#Chinese-Book)
+
+## English-Book
 
 ### [Pragmatic Scala(EMPTY)](Pragmatic-Scala.pdf)
 
@@ -28,7 +34,7 @@ PDF total size：**144MB**
 
 ![Programming in Scala-Third Edition](images/Programming-in-Scala-Third-Edition.jpg)
 
-### [Programming in Scala-Fourth Edition(EMPTY)](Programming-in-Scala-Fourth-Edition.pdf)
+### [Programming in Scala-Fourth Edition](Programming-in-Scala-Fourth-Edition.pdf)
 
 
 ![Programming in Scala-Fourth Edition](images/Programming-in-Scala-Fourth-Edition.jpg)
@@ -104,7 +110,7 @@ PDF total size：**144MB**
 
 ![Scala Design Patterns Second Edition](images/Scala-DesignPatterns-Second-Edition.jpg)
 
-## Chinese Book
+## Chinese-Book
 
 由于中文版内容较大，为了方便下载，汇总传到了[百度云盘](https://pan.baidu.com/s/1N67CtkoYiHhdxQW5zO0VYQ)。提取码:zzqu，如果失效，提issues我会补充。
 
