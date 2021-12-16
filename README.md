@@ -114,16 +114,14 @@ PDF total size：**175MB**
 
 由于中文版内容较大，为了方便下载，汇总传到了[百度云盘](https://pan.baidu.com/s/1N67CtkoYiHhdxQW5zO0VYQ)。提取码:zzqu，如果失效，提issues我会补充。
 
-### [Scala编程(第3版)(暂无)]()
+### [Scala编程(第3版)]()
 
-**暂无**
 
 ![Scala编程(第3版)](images/Scala编程(第3版).jpg)
 
 
-### [Scala编程(第4版)(暂无)]()
+### [Scala编程(第4版)]()
 
-**暂无**
 
 ![Scala编程(第4版)](images/Scala编程(第4版).jpg)
 
