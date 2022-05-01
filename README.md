@@ -89,11 +89,11 @@ PDF total size：**175MB**
 
 ![Scala By Example](images/Scala-By-Example.png)
 
-### [Scala Cookbook](Scala-Cookbook.pdf)
+### [Scala Cookbook First Edition](Scala-Cookbook.pdf)
 
 ![Scala Cookbook](images/Scala-Cookbook.png)
 
-### [Scala Cookbook](Scala-CookbookV2.pdf)
+### [Scala Cookbook Second Edition](Scala-CookbookV2.pdf)
 
 ![Scala Cookbook Second Edition](images/scalacookbookV2.png)
 
