@@ -93,6 +93,10 @@ PDF total size：**175MB**
 
 ![Scala Cookbook](images/Scala-Cookbook.png)
 
+### [Scala Cookbook](Scala-CookbookV2.pdf)
+
+![Scala Cookbook Second Edition](images/scalacookbookV2.png)
+
 
 ### [Scala for the Impatient](Scala-for-the-Impatient.pdf)
 
